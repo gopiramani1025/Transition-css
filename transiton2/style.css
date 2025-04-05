@@ -1,0 +1,123 @@
+
+body{
+    margin: 80px;
+    background-color: lightblue;
+}
+
+.box {
+    border-style: solid;
+    border-width: 1px;
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: darkcyan;
+    cursor: wait;
+    transition:
+      width 2s,
+      height 2s,
+      background-color 2s,
+      rotate 2s;
+  }
+  
+  .box:hover {
+    background-color:lightskyblue;
+    width: 200px;
+    height: 200px;
+    rotate: 180deg;
+  }
+  
+  .box2 {
+    border-style: solid;
+    border-width: 1px;
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: greenyellow;
+    cursor: wait;
+    transition:
+      width 2s,
+      height 2s,
+      background-color 2s,
+      rotate 2s;
+  }
+  
+  .box2:hover {
+    background-color: lightsalmon;
+    width: 200px;
+    height: 200px;
+    rotate: 180deg;
+  }
+  
+  .box3 {
+    border-style: solid;
+    border-width: 1px;
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    cursor: wait;
+    transition:
+      width 2s,
+      height 2s,
+      background-color 2s,
+      rotate 2s;
+  }
+  
+  .box3:hover {
+    background-color: lightslategray;
+    width: 200px;
+    height: 200px;
+    rotate: 180deg;
+  }
+
+  .box4 {
+    border-style: solid;
+    border-width: 1px;
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: plum;
+    cursor: wait;
+    transition:
+      width 2s,
+      height 2s,
+      background-color 2s,
+      rotate 2s;
+  }
+  
+  .box4:hover {
+    background-color: palegoldenrod;
+    width: 200px;
+    height: 200px;
+    rotate: 180deg;
+  }
+
+  .box5 {
+    border-style: solid;
+    border-width: 1px;
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: yellowgreen;
+    cursor: wait;
+    transition:
+      width 2s,
+      height 2s,
+      background-color 2s,
+      rotate 2s;
+  }
+  
+  .box5:hover {
+    background-color: #ffcccc;
+    width: 200px;
+    height: 200px;
+    rotate: 180deg;
+  }
+  
+
+  
+  
+  
+  
+  
+  
